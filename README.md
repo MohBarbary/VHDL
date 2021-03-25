@@ -1,7 +1,12 @@
-# VHDL
+# VHDL Repository by MohBarbary
 
-This repositry contains all my VHDL codes and projects. Feel free to use them however you like.
-I hope that you like them and that you find them educational/helpful.
+In this repository, I will be designing various hardware components and possibly even peripheral designs in VHDL.
+
+## VHDL FILES COMPLETED
+
+- 32 bit timer made using two cascaded 16 bit timers.
+
+# Thank you so much for taking the time to check out my repository.
 
                                                         Thank you,
                                                         Barbary.
